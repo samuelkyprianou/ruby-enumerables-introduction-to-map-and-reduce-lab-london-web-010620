@@ -62,5 +62,4 @@ def reduce_to_all_true(source_array)
   return false if source_array[counter] === false
   counter += 1
   end
-else true
 end
